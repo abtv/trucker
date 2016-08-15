@@ -38,9 +38,11 @@ To test the app, run
 
 To build and run the app in release mode, run
 
-   ./build.sh
-   cd target
-   java -jar service.jar
+```
+./build.sh
+cd release
+java -jar service.jar
+```
 
 ## License
 
