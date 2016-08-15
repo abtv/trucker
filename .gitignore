@@ -11,3 +11,4 @@ pom.xml.asc
 /.nrepl-port
 .lein-failures
 .lein-repl-history
+trucker.log
