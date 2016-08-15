@@ -12,12 +12,14 @@ The app exposes GET /geocode?address=some%20address endpoint, makes calls to an 
 
 You have to install and run Redis server before running the app or tests
 
+```
 wget http://download.redis.io/redis-stable.tar.gz
 tar xzf redis-stable.tar.gz
 cd redis-stable
 make
 sudo make install
 redis-server
+```
 
 ## Running
 
