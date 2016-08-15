@@ -24,7 +24,7 @@
                              :http-port            "3000"
                              :redis-host           "127.0.0.1"
                              :redis-port           "6379"
-                             :external-service-url "http://google.com"
+                             :external-service-url "http://geo.truckerpathteam.com"
                              :primary-cache-ttl-s  "10"}}
              :uberjar {:main trucker.core
                        :aot  [trucker.core]
@@ -32,6 +32,6 @@
                               :http-port            "3000"
                               :redis-host           "127.0.0.1"
                               :redis-port           "6379"
-                              :external-service-url "http://google.com"
+                              :external-service-url "http://geo.truckerpathteam.com"
                               :primary-cache-ttl-s  "86400"}}})
 
